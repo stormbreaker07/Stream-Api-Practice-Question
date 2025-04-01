@@ -23,7 +23,8 @@ public class Main {
 //        Q21Answer.findStudentFromEachDep();
 //        Q23Answer.averageAgeOfMale();
 //        Q24Answer.maxStudentDepName();
-        Q25Answer.filterStudents();
+//        Q25Answer.filterStudents();
+        Q26Answer.highestRankPerDepartment();
     }
 
     private static void printIntList(List<Integer> lt) {
