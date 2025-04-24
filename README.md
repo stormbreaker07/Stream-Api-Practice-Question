@@ -39,4 +39,4 @@ The new questions will be added on regular bases target is  to add 50 questions.
 |  Question - 33  |                                             Remove duplicate characters (preserve order)                                          |
 |  Question - 34  |                                             Sort characters alphabetically                                                        |
 |  Question - 35  |                                             First non-repeating character                                                         |
-|  Question - 35  |                                             Count Frequency of Each Character                                                     |
+|  Question - 36  |                                             Count Frequency of Each Character                                                     |

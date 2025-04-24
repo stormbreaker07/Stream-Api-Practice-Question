@@ -24,7 +24,13 @@ public class Main {
 //        Q23Answer.averageAgeOfMale();
 //        Q24Answer.maxStudentDepName();
 //        Q25Answer.filterStudents();
-        Q26Answer.highestRankPerDepartment();
+//        Q26Answer.highestRankPerDepartment();
+//        Q27Answer.NoOfVowels();
+//        Q28Answer.removeWhiteSpace();
+//        Q29Answer.convertToUppercase();
+//        Q30Answer.reverseString1();
+//        Q31Answer.replaceVowels();
+        Q36Answer.countFrequency();
     }
 
     private static void printIntList(List<Integer> lt) {
