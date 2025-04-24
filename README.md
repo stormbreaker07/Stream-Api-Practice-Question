@@ -30,3 +30,13 @@ The new questions will be added on regular bases target is  to add 50 questions.
 |  Question - 24  |                                   Find the department who is having maximum number of students.                                   |
 |  Question - 25  |                                 Find the Students who stays in fbd and sort them by their names.                                  |
 |  Question - 26  |                                             Find the highest rank in each department                                              |
+|  Question - 27  |                                             Count the number of vowels in a string                                                |
+|  Question - 28  |                                             Remove all whitespace characters from string                                          |
+|  Question - 29  |                                             Convert to uppercase                                                                  |
+|  Question - 30  |                                             Reverse a string                                                                      |
+|  Question - 31  |                                             Replace all vowels with *                                                             |
+|  Question - 32  |                                             Check if a string is a palindrome                                                     |
+|  Question - 33  |                                             Remove duplicate characters (preserve order)                                          |
+|  Question - 34  |                                             Sort characters alphabetically                                                        |
+|  Question - 35  |                                             First non-repeating character                                                         |
+|  Question - 35  |                                             Count Frequency of Each Character                                                     |
